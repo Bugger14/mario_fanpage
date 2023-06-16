@@ -1,0 +1,16 @@
+body {
+    background-color: #FF2831;
+}
+* {
+    color: azure;
+}
+
+h1 {
+    width: 200px;
+    box-shadow: 10px 10px 5px red;
+}
+
+#mario_pic {
+    width: 150px;
+    height: auto;
+}
